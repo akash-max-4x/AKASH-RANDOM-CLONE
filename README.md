@@ -17,7 +17,7 @@ Run Tools Command
 ``` bash
 rm -rf AKASH-RANDOM-CLONE
 git clone https://github.com/akash-max-4x/AKASH-RANDOM-CLONE.git
-cd AKASH-RANDOM
+cd AKASH-RANDOM-CLONE
 chmod +x *
 python AKASH-RANDOM.py
 ```
