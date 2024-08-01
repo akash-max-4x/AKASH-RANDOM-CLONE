@@ -19,6 +19,13 @@ rm -rf AKASH-RANDOM-CLONE
 git clone https://github.com/akash-max-4x/AKASH-RANDOM-CLONE.git
 cd AKASH-RANDOM-CLONE
 chmod +x *
+```
+# Fast Run Setup
+```bash
+python SETUP.py
+```
+# TOOLS RUN
+```bash
 python AKASH-RANDOM.py
 ```
 ![Screenshot](https://i.postimg.cc/3wrHxmZv/Screenshot-2024-07-31-09-29-49-419-com-termux.jpg)
